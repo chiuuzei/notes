@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Ran linter, applied auto-fixes
 - Documented config options
+
+## 2026-06-13
+- Updated license year
